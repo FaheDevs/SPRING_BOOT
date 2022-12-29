@@ -9,8 +9,10 @@
 - I HAVE A SERVICE LAYER THAT IS MAINLY FOR BUSINESS LOGIC .
 - I HAVE A DATA ACCESS LAYER RESPONSIBLE FOR CONNECTING TO DATABASE (POSTGRESQL) .
 
-![DATABASE USING POSTGRESQL](/Users/zidanifahed/Downloads/SPRING_BOOT/Screenshot 2022-12-29 at 00.21.31.png)
 
-![API LAYERS ](/Users/zidanifahed/Downloads/SPRING_BOOT/Screenshot 2022-12-29 at 01.53.23.png)
+![Screenshot 2022-12-29 at 01 53 23](https://user-images.githubusercontent.com/71198261/209892259-cb28e979-788b-4cb2-b9b4-c5b98b6c9c02.png)
 
 
+
+
+<img width="1373" alt="Screenshot 2022-12-29 at 00 21 31" src="https://user-images.githubusercontent.com/71198261/209892269-b5859856-db66-4941-94c8-8778bb4573f6.png">
